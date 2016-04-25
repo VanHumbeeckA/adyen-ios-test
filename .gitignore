@@ -1,0 +1,7 @@
+platforms/
+plugins/
+.gitignore~
+.idea/
+bower_components/
+bower.json
+
